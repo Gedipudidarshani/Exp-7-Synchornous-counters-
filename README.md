@@ -1,6 +1,6 @@
 # Experiment-6 Synchornous counters - up counter and down counter 
-# Name:Gedipudi Darshani
-# Register Number:212223230062
+### Name:Gedipudi Darshani
+### Register Number:212223230062
 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -60,7 +60,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Gedipudi Darshani
 RegisterNumber: 212223230062
-# UP COUNTER
+### UP COUNTER
 ```
   module uc(clk, A);
   input clk;
@@ -73,7 +73,7 @@ RegisterNumber: 212223230062
   end
   endmodule
 ```
-# DOWN COUNTER
+### DOWN COUNTER
 ```
   module dc(clk,A);
   input clk;
@@ -91,24 +91,24 @@ RegisterNumber: 212223230062
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
-# UP COUNTER
+### UP COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/9dc10578-9b7a-487b-9071-2543a6a1359e)
 
-# DOWN COUNTER
+### DOWN COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/3f7ffe04-318c-45fe-ae1b-5914b2565d4e)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
-# UP COUNTER
+### UP COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/f2fac73f-a0a1-49bd-b12d-6d33fbdf4585)
 
-# DOWN COUNTER
+### DOWN COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/5ce4efff-445b-4f77-9d97-efe8a0f1c6e6)
 
 ### TRUTH TABLE 
-# UP COUNTER
+### UP COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/5513740b-8165-4eaf-8422-39a73bc1174e)
-# DOWN COUNTER
+### DOWN COUNTER
 ![image](https://github.com/ramanpiritha/Exp-7-Synchornous-counters-/assets/147084116/56c15bca-22b2-4ec4-8f0e-565120bb0827)
 
 ### RESULTS 
